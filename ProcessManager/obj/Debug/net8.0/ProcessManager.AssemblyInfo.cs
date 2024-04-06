@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5135cffb900112da3eedc1431d7fdd0849ac5dea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
