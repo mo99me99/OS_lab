@@ -1,0 +1,15 @@
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\bin\Debug\net8.0\OS_lab_EX2.exe
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\bin\Debug\net8.0\OS_lab_EX2.deps.json
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\bin\Debug\net8.0\OS_lab_EX2.runtimeconfig.json
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\bin\Debug\net8.0\OS_lab_EX2.dll
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\bin\Debug\net8.0\OS_lab_EX2.pdb
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\OS_lab_EX2.GeneratedMSBuildEditorConfig.editorconfig
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\OS_lab_EX2.AssemblyInfoInputs.cache
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\OS_lab_EX2.AssemblyInfo.cs
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\OS_lab_EX2.csproj.CoreCompileInputs.cache
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\OS_lab_EX2.sourcelink.json
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\OS_lab_EX2.dll
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\refint\OS_lab_EX2.dll
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\OS_lab_EX2.pdb
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\OS_lab_EX2.genruntimeconfig.cache
+G:\SUTECH\OS_lab\code\ProcessManager\OS_lab_EX2\obj\Debug\net8.0\ref\OS_lab_EX2.dll

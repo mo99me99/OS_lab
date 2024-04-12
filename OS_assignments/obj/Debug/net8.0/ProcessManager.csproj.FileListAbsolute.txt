@@ -21,3 +21,10 @@ G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessMana
 G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.dll
 G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\refint\ProcessManager.dll
 G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.pdb
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\bin\Debug\net8.0\ProcessManager.exe
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\bin\Debug\net8.0\ProcessManager.deps.json
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\bin\Debug\net8.0\ProcessManager.runtimeconfig.json
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\bin\Debug\net8.0\ProcessManager.dll
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\bin\Debug\net8.0\ProcessManager.pdb
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.genruntimeconfig.cache
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ref\ProcessManager.dll
