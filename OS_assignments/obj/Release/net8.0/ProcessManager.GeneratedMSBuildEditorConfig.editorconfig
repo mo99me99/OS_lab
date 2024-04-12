@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProcessManager
-build_property.ProjectDir = G:\SUTECH\OS_lab\code\ProcessManager\ProcessManager\
+build_property.ProjectDir = G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

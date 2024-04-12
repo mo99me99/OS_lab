@@ -13,3 +13,11 @@ G:\SUTECH\OS_lab\code\ProcessManager\ProcessManager\obj\Debug\net8.0\refint\Proc
 G:\SUTECH\OS_lab\code\ProcessManager\ProcessManager\obj\Debug\net8.0\ProcessManager.pdb
 G:\SUTECH\OS_lab\code\ProcessManager\ProcessManager\obj\Debug\net8.0\ProcessManager.genruntimeconfig.cache
 G:\SUTECH\OS_lab\code\ProcessManager\ProcessManager\obj\Debug\net8.0\ref\ProcessManager.dll
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.GeneratedMSBuildEditorConfig.editorconfig
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.AssemblyInfoInputs.cache
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.AssemblyInfo.cs
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.csproj.CoreCompileInputs.cache
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.sourcelink.json
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.dll
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\refint\ProcessManager.dll
+G:\SUTECH\OS_lab\code\ProcessManager\OS_assignments\obj\Debug\net8.0\ProcessManager.pdb

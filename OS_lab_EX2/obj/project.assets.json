@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\SUTECH\\OS_lab\\code\\ProcessManager\\OS_assignments\\ProcessManager.csproj",
-      "projectName": "ProcessManager",
-      "projectPath": "G:\\SUTECH\\OS_lab\\code\\ProcessManager\\OS_assignments\\ProcessManager.csproj",
+      "projectUniqueName": "G:\\SUTECH\\OS_lab\\code\\ProcessManager\\OS_lab_EX2\\OS_lab_EX2.csproj",
+      "projectName": "OS_lab_EX2",
+      "projectPath": "G:\\SUTECH\\OS_lab\\code\\ProcessManager\\OS_lab_EX2\\OS_lab_EX2.csproj",
       "packagesPath": "C:\\Users\\MO99ME99\\.nuget\\packages\\",
-      "outputPath": "G:\\SUTECH\\OS_lab\\code\\ProcessManager\\OS_assignments\\obj\\",
+      "outputPath": "G:\\SUTECH\\OS_lab\\code\\ProcessManager\\OS_lab_EX2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
