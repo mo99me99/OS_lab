@@ -15,7 +15,7 @@ class Program
 
         while (flag == true)
         {
-            Console.WriteLine("welcome \n1. load from file \n2. create new contacts");
+            Console.WriteLine("welcome \n1. load from file \n2. create new contacts \n3. quit");
             string command = Console.ReadLine();
             switch (command)
             {
