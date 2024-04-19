@@ -1,0 +1,15 @@
+G:\SUTECH\OS_lab\code\Assignments\EX3\bin\Debug\net8.0\EX3.exe
+G:\SUTECH\OS_lab\code\Assignments\EX3\bin\Debug\net8.0\EX3.deps.json
+G:\SUTECH\OS_lab\code\Assignments\EX3\bin\Debug\net8.0\EX3.runtimeconfig.json
+G:\SUTECH\OS_lab\code\Assignments\EX3\bin\Debug\net8.0\EX3.dll
+G:\SUTECH\OS_lab\code\Assignments\EX3\bin\Debug\net8.0\EX3.pdb
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\EX3.AssemblyInfoInputs.cache
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\EX3.AssemblyInfo.cs
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\EX3.csproj.CoreCompileInputs.cache
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\EX3.sourcelink.json
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\EX3.dll
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\refint\EX3.dll
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\EX3.pdb
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\EX3.genruntimeconfig.cache
+G:\SUTECH\OS_lab\code\Assignments\EX3\obj\Debug\net8.0\ref\EX3.dll
