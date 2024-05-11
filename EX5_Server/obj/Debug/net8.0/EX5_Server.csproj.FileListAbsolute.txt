@@ -1,0 +1,15 @@
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\bin\Debug\net8.0\EX5_Server.exe
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\bin\Debug\net8.0\EX5_Server.deps.json
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\bin\Debug\net8.0\EX5_Server.runtimeconfig.json
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\bin\Debug\net8.0\EX5_Server.dll
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\bin\Debug\net8.0\EX5_Server.pdb
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\EX5_Server.GeneratedMSBuildEditorConfig.editorconfig
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\EX5_Server.AssemblyInfoInputs.cache
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\EX5_Server.AssemblyInfo.cs
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\EX5_Server.csproj.CoreCompileInputs.cache
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\EX5_Server.sourcelink.json
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\EX5_Server.dll
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\refint\EX5_Server.dll
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\EX5_Server.pdb
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\EX5_Server.genruntimeconfig.cache
+G:\SUTECH\OS_lab\code\Assignments\EX5_Server\obj\Debug\net8.0\ref\EX5_Server.dll

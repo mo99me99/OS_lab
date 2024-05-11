@@ -1,0 +1,15 @@
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\bin\Debug\net8.0\EX5_Client.exe
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\bin\Debug\net8.0\EX5_Client.deps.json
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\bin\Debug\net8.0\EX5_Client.runtimeconfig.json
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\bin\Debug\net8.0\EX5_Client.dll
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\bin\Debug\net8.0\EX5_Client.pdb
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\EX5_Client.GeneratedMSBuildEditorConfig.editorconfig
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\EX5_Client.AssemblyInfoInputs.cache
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\EX5_Client.AssemblyInfo.cs
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\EX5_Client.csproj.CoreCompileInputs.cache
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\EX5_Client.sourcelink.json
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\EX5_Client.dll
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\refint\EX5_Client.dll
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\EX5_Client.pdb
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\EX5_Client.genruntimeconfig.cache
+G:\SUTECH\OS_lab\code\Assignments\EX5_Client\obj\Debug\net8.0\ref\EX5_Client.dll
